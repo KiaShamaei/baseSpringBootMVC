@@ -1,0 +1,18 @@
+INSERT INTO employee VALUES (1 ,'kia' , 'shamaei' , 'java' , 1000) ;
+insert into employee values (2,'kia1' , 'shamaei1' , 'php' , 1001) ;
+insert into employee values (3,'kia2' , 'shamaei2' , 'C#' , 1002) ;
+insert into employee values (4,'kia3' , 'shamaei3' , 'java' , 1003) ;
+insert into employee values (5,'kia4' , 'shamaei4' , 'C' , 1004) ;
+insert into employee values (6,'kia5' , 'shamaei5' , 'javaScript' , 1005) ;
+insert into employee values (7,'kia6' , 'shamaei6' , 'SCALA' , 1006) ;
+insert into employee values (8,'kia7' , 'shamaei7' , 'php' , 1007) ;
+insert into employee values (9,'kia8' , 'shamaei8' , 'java' , 1008) ;
+insert into product values (1,'java' , 1000 , 'java8') ;
+insert into product values (2,'java' , 1100 , 'java9') ;
+insert into product values (3,'java' , 1200 , 'java10') ;
+insert into product values (4,'java' , 1300 , 'java17') ;
+insert into product values (5,'php' , 900 , 'laravel1') ;
+insert into product values (6,'php' , 650 , 'laravel2') ;
+insert into product values (7,'javaScript' , 600 , 'React') ;
+insert into product values (8,'javaScript' , 700 , 'Vue') ;
+insert into product values (9,'javaScript' , 800 , 'Svelet') ;
